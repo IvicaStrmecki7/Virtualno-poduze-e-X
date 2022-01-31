@@ -1,1 +1,2 @@
-# Virtualno-poduze-e-X
+# Virtualno-poduzece-X
+Koristeći Microsoft NAV 2016. timski je izrađeno virtualno poduzeće. Svaki član tima bio je zadužen za jednu organizacijsku jedinicu, a zajedničkim, usklađenim radom izvršavali smo zadane tjedne aktivnosti. Svaki tjedan je dokumentiran koristeći Microsoft Office Excel i Word, kako bi unutar zadnjeg tjedna bio kreiran generalni izvještaj koji je prikazao uspješnost cjelokupnog poslovanja. 
